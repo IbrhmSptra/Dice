@@ -1,0 +1,16 @@
+C:\Users\Ibrahim Saputra\Dropbox\PC\Documents\Dice\obj\Debug\net5.0\Dice.csproj.AssemblyReference.cache
+C:\Users\Ibrahim Saputra\Dropbox\PC\Documents\Dice\obj\Debug\net5.0\Dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim Saputra\Dropbox\PC\Documents\Dice\obj\Debug\net5.0\Dice.AssemblyInfoInputs.cache
+C:\Users\Ibrahim Saputra\Dropbox\PC\Documents\Dice\obj\Debug\net5.0\Dice.AssemblyInfo.cs
+C:\Users\Ibrahim Saputra\Dropbox\PC\Documents\Dice\obj\Debug\net5.0\Dice.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim Saputra\Dropbox\PC\Documents\Dice\bin\Debug\net5.0\Dice.exe
+C:\Users\Ibrahim Saputra\Dropbox\PC\Documents\Dice\bin\Debug\net5.0\Dice.deps.json
+C:\Users\Ibrahim Saputra\Dropbox\PC\Documents\Dice\bin\Debug\net5.0\Dice.runtimeconfig.json
+C:\Users\Ibrahim Saputra\Dropbox\PC\Documents\Dice\bin\Debug\net5.0\Dice.runtimeconfig.dev.json
+C:\Users\Ibrahim Saputra\Dropbox\PC\Documents\Dice\bin\Debug\net5.0\Dice.dll
+C:\Users\Ibrahim Saputra\Dropbox\PC\Documents\Dice\bin\Debug\net5.0\ref\Dice.dll
+C:\Users\Ibrahim Saputra\Dropbox\PC\Documents\Dice\bin\Debug\net5.0\Dice.pdb
+C:\Users\Ibrahim Saputra\Dropbox\PC\Documents\Dice\obj\Debug\net5.0\Dice.dll
+C:\Users\Ibrahim Saputra\Dropbox\PC\Documents\Dice\obj\Debug\net5.0\ref\Dice.dll
+C:\Users\Ibrahim Saputra\Dropbox\PC\Documents\Dice\obj\Debug\net5.0\Dice.pdb
+C:\Users\Ibrahim Saputra\Dropbox\PC\Documents\Dice\obj\Debug\net5.0\Dice.genruntimeconfig.cache
